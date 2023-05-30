@@ -1,2 +1,0 @@
-# TipsPoint
-HTML
