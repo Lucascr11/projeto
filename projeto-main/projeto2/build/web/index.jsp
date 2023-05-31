@@ -1,13 +1,5 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
-<%
-for(int i=1; i<=100; i++) {
-    
-        out.print(i + "<br>");
-    
-}
-%>
-
 <!DOCTYPE html>
 <html>
     <head>
